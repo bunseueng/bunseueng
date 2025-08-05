@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bunseu</h1>
 <h3 align="center">A passionate Frontend Developer from Cambodia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunseueng&label=Profile%20views&color=0e75b6&style=flat" alt="bunseueng" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bunseueng" alt="bunseueng" /></a> </p>
 
-- 🔭 I’m currently working on an **eCommerce project**
+- 🔭 I’m currently working on an **Music project** built with Nuxt.JS
 
 - 🌱 I’m currently learn **Django**
 
