@@ -1,60 +1,53 @@
 <h1 align="center">Hi 👋, I'm Bunseu</h1>
-<h3 align="center">A passionate Frontend Developer from Cambodia</h3>
+<h3 align="center">Full-stack & AI developer from Cambodia 🇰🇭 · solo builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunseueng&label=Profile%20views&color=0e75b6&style=flat" alt="bunseueng" /> </p>
-
-- 🔭 I’m currently working on an **Music project** built with Nuxt.JS
-
-- 🌱 I’m currently learn **Django**
-
-- 🤝 I’m looking for help with **Next.js**
-
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/bunseueng?tab=repositories)
-
-- 💬 Ask me about **React** and **Next.js**
-
-- 📫 How to reach me: **bunseueng@gmail.com**
-
-- ⚡ Fun fact: **I hate web** (but still build it 😅)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/eng-bunseu-6591a8333/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-bunseu" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bunseueng&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
+---
+
+### 🚀 What I'm building
+
+**[MijuDrama](https://mijudrama.com)** — a modern Asian-entertainment database and
+editorial blog for discovering, tracking, rating, and discussing Chinese dramas,
+donghua, and manhua. Solo-built: catalog + watchlists + ratings + community forum +
+live next-episode countdowns, powered by TMDB & AniList — with an **AI-driven content
+enrichment pipeline** under the hood.
+
+- 🔭 Currently: growing **MijuDrama** ([mijudrama.com](https://mijudrama.com)) — catalog & community
+- 🤖 Working with: LLMs & AI dev tools — I build with **Claude Code** daily, plus AI-powered features in production
+- 🌱 Learning: AI agents & LLM app patterns
+- 💬 Ask me about: Next.js, Prisma/MongoDB, better-auth, AI integration, SEO
+- 📫 Reach me: **bunseueng@gmail.com**
+
+### 🛠 Tech I work with
+
+![Next.js](https://img.shields.io/badge/-Next.js_15-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React_19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_4-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma_6-2D3748?logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### 🤖 AI tools I build with
+
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white)
+
+### 🔗 Connect
+
+<p>
+  <a href="https://mijudrama.com"><img src="https://img.shields.io/badge/-mijudrama.com-FF5E5B?logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eng-bunseu-6591a8333/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bunseueng@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" /></a>
+  <a href="https://ko-fi.com/mijudrama"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-FF5E5B?logo=ko-fi&logoColor=white" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunseueng&show_icons=true&locale=en&layout=compact" alt="bunseueng" /></p>
+### 📊 GitHub stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunseueng&show_icons=true&locale=en" alt="bunseueng" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bunseueng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunseueng&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
