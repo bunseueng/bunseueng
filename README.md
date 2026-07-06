@@ -44,10 +44,3 @@ enrichment pipeline** under the hood.
   <a href="mailto:bunseueng@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" /></a>
   <a href="https://ko-fi.com/mijudrama"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-FF5E5B?logo=ko-fi&logoColor=white" /></a>
 </p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bunseueng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunseueng&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
